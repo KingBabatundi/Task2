@@ -25,6 +25,7 @@
  * s                   : save png
  */
 
+// Tried to apply the color wave directly onto the square while it was spinning. 
 
 var stepX;
 var stepY;
